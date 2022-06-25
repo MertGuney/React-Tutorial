@@ -1,0 +1,2 @@
+rcc => component oluşturma 
+rfc => functional component
